@@ -1,5 +1,6 @@
 [
   {
+    "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/6B59/production/_113018472_getty_1.jpg",
     "name": "Justin Beiber",
     "age": 20,
     "country": "USA",
@@ -8,6 +9,7 @@
     "salary": 100000
   },
   {
+    "img": "https://pbs.twimg.com/profile_images/1222533653307281413/9HQL6tq2_400x400.jpg",
     "name": "Post Malone",
     "age": 30,
     "country": "USA",
@@ -16,6 +18,7 @@
     "salary": 150000
   },
   {
+    "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE1ODA0OTcxMjkwNTYwMDEz/michael-jackson-pepsi-commercial-raw.jpg",
     "name": "Michael Jackson",
     "age": 20,
     "country": "USA",
@@ -24,6 +27,7 @@
     "salary": 130000
   },
   {
+    "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTc5OTQ5ODk3MTMzMzM1ODk2/gettyimages-1176816280.jpg",
     "name": "freddie mercury",
     "age": 20,
     "country": "USA",
@@ -32,6 +36,7 @@
     "salary": 200000
   },
   {
+    "img": "https://scontent.fdac39-1.fna.fbcdn.net/v/t1.6435-1/c0.0.200.200a/p200x200/185897340_323253612504050_3446712282546061107_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=c6021c&_nc_ohc=tNlqp1vLXA8AX-yrNoz&_nc_ht=scontent.fdac39-1.fna&oh=f852d10213ffbffd1c65fcb6670942cb&oe=61774840",
     "name": "Katy Perry",
     "age": 20,
     "country": "USA",
@@ -40,6 +45,7 @@
     "salary": 90000
   },
   {
+    "img": "https://st1.bollywoodlife.com/wp-content/uploads/2021/06/Incurable-dieseases-pics1-Selena-Gomez.jpg",
     "name": "Selena Gomez",
     "age": 25,
     "country": "USA",
@@ -48,6 +54,7 @@
     "salary": 120000
   },
   {
+    "img": "https://images.indianexpress.com/2021/06/LiamPayne-1200.jpg",
     "name": "Liam Payne",
     "age": 20,
     "country": "USA",
@@ -56,6 +63,7 @@
     "salary": 130000
   },
   {
+    "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwOTM5NTc3ODcw/bambi-awards-2012---red-carpet-arrivals.jpg",
     "name": "Nial Horran",
     "age": 20,
     "country": "USA",
@@ -64,6 +72,7 @@
     "salary": 600000
   },
   {
+    "img": "https://images.indianexpress.com/2021/02/Harry-Styles-crop.jpg",
     "name": "Harry Styles",
     "age": 20,
     "country": "USA",
@@ -72,6 +81,7 @@
     "salary": 200000
   },
   {
+    "img": "https://variety.com/wp-content/uploads/2020/01/taylor-swift-variety-cover-5-16x9-1000.jpg",
     "name": "Taylor Swift",
     "age": 30,
     "country": "USA",

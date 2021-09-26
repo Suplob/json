@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Justin Beiber",
+    "age": 20,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "20kg",
+    "salary": 100000
+  },
+  {
+    "name": "Post Malone",
+    "age": 30,
+    "country": "USA",
+    "height": "6feet",
+    "weight": "50kg",
+    "salary": 150000
+  },
+  {
+    "name": "Michael Jackson",
+    "age": 20,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "55kg",
+    "salary": 130000
+  },
+  {
+    "name": "freddie mercury",
+    "age": 20,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "20kg",
+    "salary": 200000
+  },
+  {
+    "name": "Katy Perry",
+    "age": 20,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "20kg",
+    "salary": 90000
+  },
+  {
+    "name": "Selena Gomez",
+    "age": 25,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "40kg",
+    "salary": 120000
+  },
+  {
+    "name": "Liam Payne",
+    "age": 20,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "110kg",
+    "salary": 130000
+  },
+  {
+    "name": "Nial Horran",
+    "age": 20,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "20kg",
+    "salary": 600000
+  },
+  {
+    "name": "Harry Styles",
+    "age": 20,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "40kg",
+    "salary": 200000
+  },
+  {
+    "name": "Taylor Swift",
+    "age": 30,
+    "country": "USA",
+    "height": "5feet",
+    "weight": "30kg",
+    "salary": 300000
+  }
+]
